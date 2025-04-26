@@ -68,6 +68,6 @@ void displayCountry(const Country* current) {
 
 ## Автор
 
-- Михаил
+- Разработано студентом для учебных целей
 
 ---
