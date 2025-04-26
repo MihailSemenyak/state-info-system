@@ -29,7 +29,7 @@
 
 ## Пример кода
 
-'''cpp
+```cpp
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -60,7 +60,7 @@ void displayCountry(const Country* current) {
          << fixed << setprecision(2) << current->exchangeRateToUSD
          << endl;
 }
-'''
+```
 ## Требования
 
 - Компилятор с поддержкой стандарта C++11 или выше
